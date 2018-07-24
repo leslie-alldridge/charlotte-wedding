@@ -94,8 +94,15 @@
         float:none !important;
      margin: 0 auto;
 
-        padding: 0px;
+      
         align-content: left;
+    }
+    iframe {
+        float:none !important;
+        margin: 0 auto;
+   
+           padding: 0px;
+           align-content: left;
     }
 }
 
