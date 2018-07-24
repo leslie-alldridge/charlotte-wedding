@@ -90,6 +90,9 @@
     .heart {
         display: none;
     }
+    .formGoogle {
+        margin-left: 0px;
+    }
 }
 
 #icon {
