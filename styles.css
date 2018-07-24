@@ -120,6 +120,10 @@ footer {
     color:#e75480;
 }
 
+.fab {
+    color:#e75480;
+}
+
 .formGoogle {
     margin-left: 80px;
 }
@@ -129,4 +133,19 @@ h4 {
     font-weight: 700;
     font-family: 'PT Serif', serif;
 
+}
+
+.time {
+    font-weight: 600;
+    font-family: 'PT Serif', serif;
+
+}
+
+.link a {
+    text-decoration: none;
+    
+}
+
+.link {
+    font-size: 2em;
 }
