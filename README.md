@@ -1,2 +1,2 @@
-# charlotte-wedding
-charlotte-wedding
+# bootstrap-demo
+Bootstrap tutoria; and template
