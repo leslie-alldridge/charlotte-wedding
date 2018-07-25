@@ -87,23 +87,6 @@
     h2 {
         font-size: 1.9em;
     }
-    .heart {
-        display: none;
-    }
-    .formGoogle {
-        float:none !important;
-     margin: 0 auto;
-
-      
-        align-content: left;
-    }
-    iframe {
-        float:none !important;
-        margin: 0 auto;
-   
-           padding: 0px;
-           align-content: left;
-    }
 }
 
 #icon {
